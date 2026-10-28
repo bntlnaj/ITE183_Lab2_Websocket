@@ -163,7 +163,7 @@ var server = http(8000);
 // ==========================================
 
 server.get = function (path, data) {
-    print("get loc:" + path);
+    print("get loc:" + pat
 
     if (path == "/") {
         server.sendFile("public/index.html");
