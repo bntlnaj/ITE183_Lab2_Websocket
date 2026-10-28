@@ -409,7 +409,7 @@ bonezegei -v
 
 **Screenshot:**
 
-![Bonezegei Interpreter Version Verification](documentation\1.png)
+![Bonezegei Interpreter Version Verification](.\documentation\1.png)
 
 ---
 
@@ -427,7 +427,7 @@ bzg install
 
 **Screenshot:**
 
-![Dependency Installation](documentation\2.png)
+![Dependency Installation](.\documentation\2.png)
 
 ---
 
@@ -445,7 +445,7 @@ bzg run
 
 **Screenshot:**
 
-![WebSocket Server Startup](documentation\3.png)
+![WebSocket Server Startup](.\documentation\3.png)
 
 ---
 
@@ -471,7 +471,7 @@ To test system concurrency, message delivery, and route handling, three browser 
 
 **Server Connection and Message Logs:**
 
-![Server Connection and Message Logs](documentation\4.png)
+![Server Connection and Message Logs](.\documentation\4.png)
 
 ---
 
